@@ -1,6 +1,7 @@
 # AtomicDesinToStateMngPractice
 Created with CodeSandbox
 
+このレポジトリで振り返るよりもcodesandboxにレポジトリ残ってるならそれを参照して振り返るほうが効果的
 
 じゃけぃのReactの動画の２で学んだ
 ・atomic design
